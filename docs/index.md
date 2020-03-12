@@ -2,10 +2,7 @@
 
 ## Upcoming Events / 今後のイベント
 
-### 全体会合
-{% include_relative upcoming-events.md %}
-
-### サブグループ会合
+### SubGroup Meetings / サブグループ会合  
 {% include_relative subgroups/FAQ/upcoming-events.md %}  
 {% include_relative subgroups/education/upcoming-events.md %}  
 {% include_relative subgroups/leaflet/upcoming-events.md %}  
@@ -13,6 +10,9 @@
 {% include_relative subgroups/planning/upcoming-events.md %}  
 {% include_relative subgroups/promotion/upcoming-events.md %}  
 {% include_relative subgroups/tooling/upcoming-events.md %}
+
+### AllMember Meetings / 全体会合  
+{% include_relative upcoming-events.md %}  
 
 ---
 
@@ -37,7 +37,7 @@ OpenChain Japan Work Group (JWG) の Website です。
 
 ---
 
-## Meetings / 全体会合
+## Meetings Minutes / 全体会合記録
 
 - [&#x1f4c2;Meeting Minutes / 会合記録](meetings/)  ```ToBeCommitted```  
 
