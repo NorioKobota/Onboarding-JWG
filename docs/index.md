@@ -3,6 +3,7 @@
 ## Upcoming Events / 今後のイベント
 
 ### SubGroup Meetings / サブグループ会合  
+
 {% include_relative subgroups/FAQ/upcoming-events.md %}  
 {% include_relative subgroups/education/upcoming-events.md %}  
 {% include_relative subgroups/leaflet/upcoming-events.md %}  
@@ -12,6 +13,7 @@
 {% include_relative subgroups/tooling/upcoming-events.md %}
 
 ### AllMember Meetings / 全体会合  
+
 {% include_relative upcoming-events.md %}  
 
 ---
