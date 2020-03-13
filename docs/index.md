@@ -1,5 +1,3 @@
-# OpenChain Japan Work Group (JWG)
-
 ## Upcoming Events / 今後のイベント
 
 ### SubGroup Meetings / サブグループ会合  
