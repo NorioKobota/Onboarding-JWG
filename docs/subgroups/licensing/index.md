@@ -1,6 +1,6 @@
 # License information exchange Subgroup / ライセンス情報サブグループ
 
-<div style="text-align: right;">
+<div style="text-align: right; position: stickey;">
 <a href="/Onboarding-JWG/">Back / 戻る</a>
 </div>
 
