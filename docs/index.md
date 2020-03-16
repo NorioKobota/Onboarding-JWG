@@ -57,7 +57,7 @@ OpenChain Japan Work Group (JWG) の Website です。
 
 ## Outcomes / 成果物
 
-- [&#x1f4c2;Outcomes / 成果物](outcomes/)  
+- [&#x1f4c2;Outcomes / 成果物](outcomes.md)  
 
 ---
 
