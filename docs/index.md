@@ -132,6 +132,3 @@ OpenChain Japan WGには4つのメーリングリストがあります。各メ�
    - Japan WGの参加者が協力して作成したもの  
    CC0-1.0（OpenChain Projectと同じ運用）
 
----
-
-<a class="twitter-timeline" href="https://twitter.com/openchainproj?ref_src=twsrc%5Etfw">Tweets by openchainproj</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
